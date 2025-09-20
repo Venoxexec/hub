@@ -8,7 +8,7 @@ local Window = Rayfield:CreateWindow({
     LoadingSubtitle = "by 2#sharp",
     ConfigurationSaving = {
         Enabled = true,
-        FolderName = "2#sharp",
+        FolderName = "hub",
         FileName = "RayfieldConfig"
     },
     Discord = {
